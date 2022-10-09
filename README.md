@@ -1,4 +1,4 @@
-# OpenWeatherMap to influxdb
+# OpenWeatherMap to InfluxDB
 
 ## Description
 
