@@ -49,4 +49,4 @@ python forecast.py
 
 ## Author
 
-- Jonathan Tschanter [GitLab](https://gitlab.com/jmtw) [LinkedIn](https://de.linkedin.com/in/jonathan-tschanter)
+- Jonathan Tschanter [LinkedIn](https://de.linkedin.com/in/jonathan-tschanter)
